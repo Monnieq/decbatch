@@ -1,2 +1,3 @@
 echo "Dutt"
 ^C
+Thursday
